@@ -23,11 +23,13 @@ body{
 }
 
 .button{
+    
+
     border-radius: 5px;
     height: 30px;
     width: 100px;
     font-size: 20px;
-    background-color: rgb(98, 98, 100);
+    background-color: rgb(62, 62, 65);
     color: white;
     left: 60%;
     cursor: pointer;
