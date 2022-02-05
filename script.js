@@ -2,23 +2,26 @@
 
 function result1() {
     var sum=0;
-    if (document.getElementById("correct1").checked){
+    if (document.getElementById("c").checked){
         sum++;
     } 
-    if (document.getElementById("correct2").checked){
+    if (document.getElementById("b").checked){
         sum++;
     } 
-    if (document.getElementById("correct3").checked){
+    if (document.getElementById("b").checked){
         sum++;
     } 
-    if (document.getElementById("correct4").checked){
+    if (document.getElementById("b").checked){
         sum++;
     } 
-    if (document.getElementById("correct5").checked){
+    if (document.getElementById("d").checked){
+        sum++;
+    } 
+    if (document.getElementById("a").checked){
         sum++;
     } 
     var ans=sum*20;
-    document.write("your score is" + ans +"%")
+    document.write("score" + ans +"%")
 
     if (ans>=80){
         document.write("excellent")
@@ -30,3 +33,4 @@ function result1() {
         document.write("poorly performed")
     }
 }
+
