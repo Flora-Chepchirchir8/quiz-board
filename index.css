@@ -22,7 +22,7 @@ body{
     
 }
 
-button{
+.button{
     border-radius: 5px;
     height: 30px;
     width: 100px;
@@ -39,7 +39,7 @@ button:hover{
 
 .quiz-container{
     background-color: turquoise;
-    height: 1100px;
+    height: 930px;
     width: 400px;
 }
 ul li {

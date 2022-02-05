@@ -1,0 +1,43 @@
+Demo Questions 
+
+question:"What is the scientific name for animals",
+a: "Botany",
+b: "Phylum",
+c: "Zoology",
+d: "Species",
+correct: "c",
+
+question:"Which of the following contains a coinage metal",
+a: "Silver",
+b: "Zinc",
+c: "Copper",
+d: "Gold",
+correct: "b",
+
+question:"What is the study of genes defined as",
+a: "Genetics",
+b: "Respiration",
+c: "Classification",
+d: "Taxonomy",
+correct: "a",
+
+question:"Balloons are filled with?",
+a: "Nitrogen",
+b: "Helium",
+c: "Oxygen",
+d: "Argon",
+correct: "b",
+
+question:"Bell metal is an alloy of?",
+a: "Nickel",
+b: "Copper",
+c: "Brass",
+d: "Tin",
+correct: "d",
+
+question:"Which one is used as a lubricant",
+a: "Graphite",
+b: "Silica",
+c: "Iron oxide",
+d: "Diamond",
+correct: "a",
