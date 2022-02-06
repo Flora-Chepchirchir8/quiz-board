@@ -23,7 +23,7 @@ body{
 }
 
 .button{
-    
+
 
     border-radius: 5px;
     height: 30px;
@@ -54,6 +54,4 @@ ul li {
         padding: 5%;
 
     }
-    /* ul li label{
-        cursor: pointer;
-    } */
+    
