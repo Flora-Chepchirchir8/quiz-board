@@ -46,5 +46,6 @@ function result1() {
     
    
 }
+submitButton.addEventListener('click')
    
 
