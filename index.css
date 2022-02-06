@@ -13,7 +13,6 @@ h1{
 }
 body{
     background-color: white;
-    /* font-family: 'poppins', sans-serif; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,18 +32,23 @@ body{
     color: white;
     left: 60%;
     cursor: pointer;
+
 }
 button:hover{
     background-color: rgb(14, 13, 13);
 
 }
 
+
 .quiz-container{
     background-color: turquoise;
     height: 930px;
     width: 400px;
     border: 1px solid black;
+    border-radius: 8px;
 }
+
+
 ul li {
     list-style: none;
     padding: 1%;
