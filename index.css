@@ -11,13 +11,20 @@ h1{
     text-align: center;
     color: white;
 }
+h2{
+    font-size: 30px;
+    padding: 2%;
+   justify-content: center;
+   padding-top: 0%;
+   bottom: 5%;
+}
 body{
     background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 2%;
-    border-radius: 10px;
+    
     
 }
 
@@ -45,7 +52,7 @@ button:hover{
     height: 930px;
     width: 400px;
     border: 1px solid black;
-    border-radius: 8px;
+    
 }
 
 
