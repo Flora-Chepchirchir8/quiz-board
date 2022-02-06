@@ -29,15 +29,22 @@ function result1() {
 
     if (ans>=80){
        document.write("excellent")
+
+    document.getEmentById("quiz"). innerHTML = "You scored  " + score + "%" + "<br>" + "excellent"
+       
     }
     else if (ans<80 && ans<=50){
         document.write(" You fairly passed")
+
+    document.getEmentById("quiz"). innerHTML = "You scored  " + score + "%" + "<br>" + "You fairly passed"
     }
     else if (ans<50){
         document.write("poorly performed")
+
+    document.getEmentById("quiz"). innerHTML = "You scored  " + score + "%" + "<br>" + "poorly performed"
     }
     
- 
+   
 }
    
 
