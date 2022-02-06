@@ -20,12 +20,15 @@ function result1() {
     } 
     if (document.getElementById("a").checked){
         sum++;
-    } 
-    var ans=sum*20;
+   } 
+
+   
+ var ans=sum*20;
+ alert("score" + ans +"%")
     document.write("score" + ans +"%")
 
     if (ans>=80){
-        document.write("excellent")
+       document.write("excellent")
     }
     else if (ans<80 && ans<=50){
         document.write(" You fairly passed")
@@ -33,6 +36,8 @@ function result1() {
     else if (ans<50){
         document.write("poorly performed")
     }
+    
+ 
 }
-
+   
 
