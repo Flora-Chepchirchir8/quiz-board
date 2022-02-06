@@ -1,5 +1,6 @@
 
 
+
 function result1() {
     var sum=0;
     if (document.getElementById("c").checked){
@@ -33,4 +34,5 @@ function result1() {
         document.write("poorly performed")
     }
 }
+
 
