@@ -43,6 +43,7 @@ button:hover{
     background-color: turquoise;
     height: 930px;
     width: 400px;
+    border: 1px solid black;
 }
 ul li {
     list-style: none;
